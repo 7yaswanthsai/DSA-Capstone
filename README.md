@@ -1,4 +1,4 @@
-# 📦 DSAZip Pro – Advanced File Compression Tool
+# 📦 Compresso – Advanced File Compression Tool
 
 > A universal file compressor built using core Data Structures & Algorithms (DSA) in Python.  
 > Supports text, image, audio, video, and binary files with GUI + CLI interfaces.
@@ -7,9 +7,9 @@
 
 ## 🚀 Project Overview
 
-**DSAZip Pro** is a custom-built file compression tool designed to demonstrate how classic data structures and algorithms like **Huffman Coding**, **LZW**, and **RLE** can be used in real-world file systems.
+**Compresso** is a custom-built file compression tool designed to demonstrate how classic data structures and algorithms like **Huffman Coding**, **LZW**, and **RLE** can be used in real-world file systems.
 
-While general tools like ZIP or RAR are black boxes, DSAZip Pro is focused on both **practical usage** and **educational transparency**.
+While general tools like ZIP or RAR are black boxes, Compresso is focused on both **practical usage** and **educational transparency**.
 
 ---
 
