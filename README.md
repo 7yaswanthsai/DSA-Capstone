@@ -58,6 +58,6 @@ While general tools like ZIP or RAR are black boxes, Compresso is focused on bot
   - `Pydub` – Audio processing
   - `ffmpeg-python` – Video processing
 - **Version Control**: Git, GitHub
-- **IDE**: VS Code / PyCharm
+- **IDE**: VS Code
 
 ---
