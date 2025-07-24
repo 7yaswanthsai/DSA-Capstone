@@ -1,0 +1,9 @@
+Filename,Algorithm,Original Size,Compressed Size,Ratio (%),Date,Time
+DSA_Class.ipynb,Huffman,34798,23609,32.15,2025-07-11,21:50:40
+random (1).txt,Huffman,3000,5269,-75.63,2025-07-24,21:28:50
+random (1).txt,LZW,3000,5410,-80.33,2025-07-24,21:29:07
+random (1).txt,RLE,3000,5888,-96.27,2025-07-24,21:29:18
+patterned.txt,LZW,2250,1248,44.53,2025-07-24,21:30:50
+decision_tree_classification.ipynb,Huffman,73728,56104,23.9,2025-07-24,21:34:01
+swiggy_enhanced_rfm_orders.csv,Huffman,231224,153436,33.64,2025-07-24,21:51:13
+swiggy_enhanced_rfm_orders.csv,LZW,231224,87215,62.28,2025-07-24,21:51:39
